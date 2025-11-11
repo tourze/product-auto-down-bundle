@@ -38,7 +38,7 @@
     "tourze/easy-admin-menu-bundle": "1.0.*",
     "tourze/enum-extra": "1.0.*",
     "tourze/product-core-bundle": "1.0.*",
-    "tourze/symfony-cron-job-bundle": "1.0.*",
+    "tourze/symfony-cron-job-bundle": "1.1.*",
     "tourze/symfony-dependency-service-loader": "1.0.*",
     "tourze/tag-manage-bundle": "1.0.*"
   },
