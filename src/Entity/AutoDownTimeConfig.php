@@ -19,7 +19,6 @@ class AutoDownTimeConfig implements \Stringable
     use BlameableAware;
     use TimestampableAware;
 
-    /** @phpstan-ignore-next-line property.unusedType */
     #[ORM\Id]
     #[ORM\GeneratedValue]
     #[ORM\Column(type: Types::INTEGER, options: ['comment' => 'ID'])]

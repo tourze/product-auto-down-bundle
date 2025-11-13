@@ -38,7 +38,6 @@ class AutoDownLogRepository extends ServiceEntityRepository
 
         assert(is_array($result));
 
-        /** @phpstan-ignore return.type */
         return $result;
     }
 
@@ -62,7 +61,6 @@ class AutoDownLogRepository extends ServiceEntityRepository
 
         assert(is_array($result));
 
-        /** @phpstan-ignore return.type */
         return $result;
     }
 
@@ -85,7 +83,6 @@ class AutoDownLogRepository extends ServiceEntityRepository
 
         assert(is_array($result));
 
-        /** @phpstan-ignore return.type */
         return $result;
     }
 
